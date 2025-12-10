@@ -80,25 +80,20 @@
 <!-- ========================= GITHUB STATS FIXED ========================= -->
 ## 📊 GitHub Stats (Working & Updated)
 
-<!-- Top Languages -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshurampanchal&layout=compact&theme=tokyonight" height="180"/>
+<!-- Primary: Top languages & main stats -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<!-- Main Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=parshurampanchal&show_icons=true&theme=tokyonight" height="180"/>
+<!-- Streak / contribution graph (try primary then fallback) -->
+<p>
+  <!-- Primary streak (demolab) -->
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" alt="GitHub Streak" />
+
+  <!-- Fallback: shields for followers & stars (always visible) -->
+  <br/>
+  [![Followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=social)](https://github.com/USERNAME)
+  [![Stars](https://img.shields.io/github/stars/USERNAME?style=social)](https://github.com/USERNAME?tab=stars)
 </p>
 
-<!-- Streak Stats -->
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=parshurampanchal&theme=tokyonight" height="180"/>
-</p>
-
----
-
-<!-- ========================= SUPPORT ========================= -->
-## ☕ Support  
-<a href="https://www.buymeacoffee.com/parshurampanchal">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-</a>
